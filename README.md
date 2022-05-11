@@ -1,2 +1,2 @@
-# HP_hackintsoh_EFI
+# HP_hackintosh_EFI
 CPU是i5-10300H， GPU并未驱动，声卡仅能发声不能录声(除非你插入带有麦克风的耳机)，无线网卡及有线网卡正常，硬盘更换为kingston的，触摸板可三指拖移，但移动起来会漂移
